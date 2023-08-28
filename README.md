@@ -19,7 +19,7 @@
 ## Licenses and certifications :
 * SQL Course\
 Publisher : [Sololearn](https://www.sololearn.com/Certificate/1060-6424310/jpg/ "SQL Course")\
-Published : Okc 2020\
+Published : Oct 2020\
 Credential ID : 1060-6424310
 
 * Creating Simple Data Automation Using Microsoft Excel Macros\
