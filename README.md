@@ -46,10 +46,10 @@
 
 ## Skills
 - **Backend:** PHP, Laravel, CodeIgniter
-- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript (jQuery, Vue.js)
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
 - **Database:** MariaDB, MySQL
 - **Version Control:** Git, GitHub
-- **Other Tools:** Visual Studio Code, Microsoft Excel, Docker, AWS
+- **Other Tools:** Visual Studio Code, Microsoft Excel, Wordpress Elementor
 
 ## Professional Summary
 I am a passionate PHP Developer with expertise in Laravel and CodeIgniter frameworks. With a background in Information Systems, I have a solid understanding of web application development and a proven track record of successful freelance projects. I am committed to delivering high-quality code and continuously improving my skills in the rapidly evolving tech industry.
